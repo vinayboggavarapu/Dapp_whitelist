@@ -1,0 +1,39 @@
+.clk{
+    margin-top: 15rem;
+    text-align: center;
+}
+.clk h3{
+    font:inherit;
+    font-size: 2rem;
+    background: rgb(255,255,2);
+    background: linear-gradient(90deg, rgba(255,255,2,1) 0%, rgba(18,209,218,1) 50%, rgba(193,0,255,1) 100%);
+    background-clip: text;
+    color: transparent;
+}
+.clk p{
+    font-size:18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 50%;
+    margin-left:25rem;
+    text-align: justify;
+    line-height: 2;
+}
+.clk button{
+    width: 8rem;
+    height: 2rem;
+    position: absolute;
+    color: antiquewhite;
+    bottom: 13rem;
+    left: 46.8%;
+    text-align: center;
+}
+.clk button:hover{
+    background: rgb(34,193,195);
+    background: linear-gradient(97deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    color: black;
+    font-weight:300;
+    cursor: pointer;
+}
+.direct{
+    color:lightblue !important;
+}
